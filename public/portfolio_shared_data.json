@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Eric Davis",
+      "titles": [ "Smart Contract Engineer", "Adtech Guru / Dev Team Lead", "❤️ All Things Web3.", "DeFi and NFT Specialist", "❤️ ⛳" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/0xMoJo7",
           "class": "fab fa-github"
         },
         {
@@ -19,18 +19,23 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "name": "Solidity",
+          "class": "devicon-solidity-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "Polydong",
+          "class": "devicon-polygon-plain",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Portgres",
+          "class": "devicon-postgresql-plain",
           "level": "80"
         },
         {
@@ -44,24 +49,39 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "70"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "name": "Ruby",
+          "class": "devicon-ruby-plain",
+          "level": "70"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "name": "Rust",
+          "class": "devicon-rust-plain",
+          "level": "70"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "70"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "70"
+        },
+        {
+          "name": "SSH",
+          "class": "devicon-ssh-plain",
+          "level": "70"
+        },
+        {
+          "name": "Vim",
+          "class": "devicon-vim-plain",
+          "level": "70"
         }
       ]
     }

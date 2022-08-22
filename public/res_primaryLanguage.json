@@ -1,10 +1,10 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "I am analytical, self taught software developer leading a team of developers in the AdTech space currently. While I have been exposed and working int the cryptocurrency space since 2016, my interest in web3 and EVM development has taken off exponentially in the last few years. From helping deploy NFT's for clients to consulting on DeFi projects, I can't get enough. I am fully invested in the future and opportunity this space will bring.",
       "section_name": {
         "about": "About me",
-        "projects": "Projects",
+        "projeddcts": "Projects",
         "skills": "Skills",
         "experience": "Experience"
       }
@@ -81,37 +81,58 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CrossChain Labs",
+        "title": "CTO",
+        "years": "10.2021 - 06.22",
         "mainTech": [
-          "Angular 8/9/10"
+          "Soldiity, Business Management"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Soldiity",
+          "Hardhat",
+          "Sales",
+          "Marketing",
+          "Advising",
+          "Typescript",
+          "Javascript",
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Stealth stable coin launch, inquire for more details.",
+        "title": "Smart Contract Developer",
+        "years": "12/2022 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Soldiity"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Soldiity",
+          "Hardhat",
+          "Typescript",
+          "Javascript",
+          "React"
+        ]
+      },
+      {
+        "company": "Simpli.fi",
+        "title": "AdOps Technical Lead",
+        "years": "06.2015 - present",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "Postgres",
+          "PySpark",
+          "Business Analytics",
+          "Ruby",
+          "Javascript",
+          "Vue",
+          "Chef",
+          "Linux/Bash",
+          "Kafka",
+          "Redis",
+          "Hadoop"
         ]
       }
     ]
