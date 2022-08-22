@@ -9,9 +9,14 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "twitter",
+          "url": "https://twitter.com/0xMojo7",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "envelope",
+          "url": "mailto:ericmdavis4@gmail.com",
+          "class": "fa fa-envelope"
         }
       ],
       "image": "myProfile.jpg"
