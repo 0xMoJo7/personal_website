@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "I am analytical, self taught software developer leading a team of developers in the AdTech space currently. While I have been exposed and working int the cryptocurrency space since 2016, my interest in web3 and EVM development has taken off exponentially in the last few years. From helping deploy NFT's for clients to consulting on DeFi projects, I can't get enough. I am fully invested in the future and opportunity this space will bring.",
+      "description_header": "gm",
+      "description": "I am analytical, self-taught software developer, leading a team of engineers in the AdTech space currently. While I have been exposed and working in the cryptocurrency space since 2016, my interest in web3 and EVM development has taken off exponentially in the last few years. From helping deploy NFT's for clients to consulting on DeFi projects, I can't get enough. I am fully invested in the future and opportunity this space will bring.",
       "section_name": {
         "about": "About me",
         "projeddcts": "Projects",
@@ -85,7 +85,7 @@
         "title": "CTO",
         "years": "10.2021 - 06.22",
         "mainTech": [
-          "Soldiity, Business Management"
+          "Solidity, Business Management"
         ],
         "technologies": [
           "Soldiity",
@@ -99,9 +99,9 @@
         ]
       },
       {
-        "company": "Stealth stable coin launch, inquire for more details.",
-        "title": "Smart Contract Developer",
-        "years": "12/2022 - present",
+        "company": "Stealth Stablecoin, inquire for more details.",
+        "title": "Smart Contract Engineer",
+        "years": "12/2021 - present",
         "mainTech": [
           "Soldiity"
         ],
